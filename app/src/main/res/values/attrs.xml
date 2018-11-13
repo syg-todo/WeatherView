@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HoursView">
+        <attr name="cubeAirHeight" format="dimension"/>
+        <attr name="eachCubeWidth" format="dimension"/>
+        <attr name="cubePadding" format="dimension"/>
+        <attr name="roundRadius" format="dimension"/>
+        <attr name="cubeWindHeight" format="dimension"/>
+        <attr name="colorWind" format="color"/>
+    </declare-styleable>
+</resources>
